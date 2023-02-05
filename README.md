@@ -1,2 +1,17 @@
-# Portifolio-Alura
-Projeto feito em aula no curso Alura.
+![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Objetivo do Projeto:
+
+* Criar um portifolio para apresentar-se disponível a uma vaga de emprego.
+
+## Feito por:
+
+### Pedro Silva Carvalho
